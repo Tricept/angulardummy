@@ -5,7 +5,7 @@
   "dependencies": {
     "angular": "^1.4.9",
     "angular-route": "^1.4.9",
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^https://nvd.nist.gov/vuln/detail/CVE-2018-14041"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.9",
